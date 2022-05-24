@@ -1,4 +1,9 @@
-### Hi LALMOHAN 👋
+
+
+![MasterHead](https://www.goodcore.co.uk/blog/wp-content/webp-express/webp-images/uploads/2019/08/coding-vs-programming-2.jpg.webp)
+
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 
 <!--
 **Lalmohan00/Lalmohan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
