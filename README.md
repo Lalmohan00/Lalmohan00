@@ -28,6 +28,7 @@ Here are some ideas to get you started:
  - [C-LANGUAGE](https://https://github.com/Lalmohan00/C-LANGUAGE)
  - [JAVA](https://github.com/Lalmohan00/JAVA-)
  - [C-Assignment](https://github.com/Lalmohan00/C_Assignment)
+ - [Data_structure](https://github.com/Lalmohan00/Data_Structure)
 ## 🔗 Links
    [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/lalmohan-pal-505935218/)
   <a href="https://www.facebook.com/lalmohan.pal.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="walter tronics" height="30" width="40" /></a>
